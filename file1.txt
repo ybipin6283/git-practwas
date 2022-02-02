@@ -1,2 +1,3 @@
 this is the new file in nano editor.
 I have to add new line in the nano editor.
+here is the add git-ignore file 
